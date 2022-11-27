@@ -25,5 +25,6 @@ Proje örnek görsel:
 **Medetcan Diler**
 
 [Patika.dev profilim](https://app.patika.dev/meddo)
+
 [Github profilim](https://github.com/medetcandiler)
 
