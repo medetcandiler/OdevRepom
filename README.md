@@ -1,4 +1,4 @@
-# Patika.dev-HTML-Odev-2 Projem
+# GÜNCEL PROJE: HTML Bölüm Sonu Çalışmaları Projem
 
 
 
@@ -8,16 +8,16 @@ Merhaba, ben Medetcan, Aslen Makine Mühendisi olsam da bilgisayar, bilgisayar b
 
 ---
 **Proje içerisinde yer alan çalışmalar:**
-* Link verme çalışmaları
-* Görsellerle ve görsele map ekleme çalışmaları
-* Liste oluşturma çalışmaları
-* Blok ve İnline elementler çalışmaları
-* İcon ekleme çalışmaları
-* Henüz başlamamış olsakta bir kaç css renklendirme çalışmaları.
+* Contact Us ve About us sayfaları oluşturma, içerik düzenleme çalışmaları,
+* Görsel ve linkler üzerine çalışmalar,
+* Sayfalar arası geçiş çalışmaları,
+* Address etiketi kullanım çalışmaları,
+* Semantic HTML etiketleri planlama, kullanım çalışmaları.
+
 
 
 Proje örnek görsel:
 
-![projegörseli](https://i.hizliresim.com/tc2lnfg.png)
+![projegörseli](https://i.hizliresim.com/skz9d2n.png)
 ## Hazırlayan
 **Medetcan Diler**
